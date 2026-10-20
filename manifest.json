@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "piccolo-orm",
+  "repo": "piccolo-admin-docker",
+  "versions": [
+    {
+      "commit": "bd1b74b9c94444aadf162968fcd35c06c9ae4110",
+      "parsed_at": "2026-10-20T22:19:07.606239+00:00",
+      "filetree": "filetree/bd1b74b9c94444aadf162968fcd35c06c9ae4110.nq.gz",
+      "blobs": [
+        "blob/d367308b9f4610297ead5d387e4667ea94433d2a.nq.gz",
+        "blob/068800807fdd30e9e69ffa56641fb150bd2034bc.nq.gz",
+        "blob/bb8708ab9e48580c82886b569cf7cb5e2f7a428b.nq.gz",
+        "blob/a92e75f0060ec9779f53c998406c4d0302ec2802.nq.gz",
+        "blob/1e965f57d1c3ec598bb85cae7fb6dba4e2e17cba.nq.gz",
+        "blob/4e8fafb5d1c27c7f94bed3eec81045394ce43671.nq.gz",
+        "blob/1c31d45b8ea145f4f3117a2171ba54012aa0f9f3.nq.gz",
+        "blob/3acfde1c1fff78831b9f4047d504302924550f3b.nq.gz",
+        "blob/b8085407e49710665c02078618386e23b639def0.nq.gz",
+        "blob/2f949b8c2e2e4898fb6ae6d4029695d007892a4d.nq.gz",
+        "blob/78e0e79ed4d21848bb82e4fea038d59c9ae2d7be.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2f42ae34ee64945d0193682043c9f394d8d08bf2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
