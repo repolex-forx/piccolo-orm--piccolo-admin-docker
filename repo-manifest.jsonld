@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/piccolo-orm/piccolo-admin-docker/commit/bd1b74b9c94444aadf162968fcd35c06c9ae4110",
       "git:hexsha": "bd1b74b9c94444aadf162968fcd35c06c9ae4110",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
